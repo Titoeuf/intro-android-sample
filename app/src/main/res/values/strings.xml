@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <!-- MainActivity -->
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_navigate">Navigate</string>
+
+    <!-- SecondActivity -->
+    <string name="hello_user">Hello %s</string>
+
+    <!-- BottomNavigationActivity -->
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
